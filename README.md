@@ -87,9 +87,15 @@ The screenshots of the project execution and Champion inference results are avai
 
 **Champion inference – Part 1**
 
+## 8. Project Screenshots
+
+The screenshots of the project execution and Champion inference results are available below.
+
+**Champion inference – Part 1**
+
 ![Champion Predictions Part 1](screenshots/champion_predictions_part_1.png)
 
-**Champion inference – Part **
+**Champion inference – Part 2**
 
 ![Champion Predictions Part 2](screenshots/champion_predictions_part_2.png)
 

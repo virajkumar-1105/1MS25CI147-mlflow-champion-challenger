@@ -1,0 +1,9 @@
+text,predicted_label,confidence,sentiment,model_version,hf_model_id
+The food arrived fresh and tasted absolutely wonderful.,1,0.9994342923164368,POSITIVE,2,textattack/bert-base-uncased-SST-2
+I regret buying this product because it stopped working after one day.,0,0.9984328150749207,NEGATIVE,2,textattack/bert-base-uncased-SST-2
+The movie was entertaining and kept me interested throughout.,1,0.9996805191040039,POSITIVE,2,textattack/bert-base-uncased-SST-2
+The customer service was rude and completely unhelpful.,0,0.9983446598052979,NEGATIVE,2,textattack/bert-base-uncased-SST-2
+I enjoyed every moment of the trip and would happily go again.,1,0.9995015859603882,POSITIVE,2,textattack/bert-base-uncased-SST-2
+The software is confusing and crashes far too frequently.,0,0.9991794228553772,NEGATIVE,2,textattack/bert-base-uncased-SST-2
+This book was beautifully written and genuinely inspiring.,1,0.9996988773345947,POSITIVE,2,textattack/bert-base-uncased-SST-2
+"The delivery was late, but the packaging was excellent.",1,0.9978978633880615,POSITIVE,2,textattack/bert-base-uncased-SST-2

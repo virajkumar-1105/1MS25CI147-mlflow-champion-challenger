@@ -1,0 +1,6 @@
+text,actual_label,model_a_prediction,model_b_prediction,comment
+the film tunes into a grief that could lead a man across centuries . ,1,0,1,Actual: POSITIVE. Model A: NEGATIVE. Model B: POSITIVE. Model B matched the actual label; Model A did not.
+"you 'll gasp appalled and laugh outraged and possibly , watching the spectacle of a promising young lad treading desperately in a nasty sea , shed an errant tear . ",1,0,1,Actual: POSITIVE. Model A: NEGATIVE. Model B: POSITIVE. Model B matched the actual label; Model A did not.
+true tale of courage -- and complicity -- at auschwitz is a harrowing drama that tries to tell of the unspeakable . ,1,0,1,Actual: POSITIVE. Model A: NEGATIVE. Model B: POSITIVE. Model B matched the actual label; Model A did not.
+"pumpkin means to be an outrageous dark satire on fraternity life , but its ambitions far exceed the abilities of writer adam larson broder and his co-director , tony r. abrams , in their feature debut . ",0,1,0,Actual: NEGATIVE. Model A: POSITIVE. Model B: NEGATIVE. Model B matched the actual label; Model A did not.
+a solid film ... but more conscientious than it is truly stirring . ,1,1,0,Actual: POSITIVE. Model A: POSITIVE. Model B: NEGATIVE. Model A matched the actual label; Model B did not.

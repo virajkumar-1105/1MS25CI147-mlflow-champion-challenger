@@ -89,11 +89,11 @@ The screenshots of the project execution and Champion inference results are avai
 
 ![Champion Predictions Part 1](screenshots/champion_predictions_part_1.png)
 
-**Champion inference – Part 2**
+**Champion inference – Part **
 
 ![Champion Predictions Part 2](screenshots/champion_predictions_part_2.png)
 
-[View all project screenshots](screenshots/)
+[View all project screenshots](https://github.com/vk-bytes-1105/1MS25CI147-mlflow-champion-challenger/tree/main/screenshots)
 
 ## 9. Technologies Used
 

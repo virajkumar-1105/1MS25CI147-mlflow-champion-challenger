@@ -99,7 +99,7 @@ The screenshots of the project execution and Champion inference results are avai
 
 ![Champion Predictions Part 2](screenshots/champion_predictions_part_2.png)
 
-[View all project screenshots](https://github.com/vk-bytes-1105/1MS25CI147-mlflow-champion-challenger/tree/main/screenshots)
+[View all project screenshots](https://github.com/virajkumar-1105/1MS25CI147-mlflow-champion-challenger/tree/main/screenshots)
 
 ## 9. Technologies Used
 
@@ -124,7 +124,7 @@ The screenshots of the project execution and Champion inference results are avai
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/vk-bytes-1105/1MS25CI147-mlflow-champion-challenger.git
+git clone https://github.com/virajkumar-1105/1MS25CI147-mlflow-champion-challenger.git
 cd 1MS25CI147-mlflow-champion-challenger
 ```
 
